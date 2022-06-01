@@ -1,4 +1,4 @@
-# Profile
+## Profile
 
 Professionally driven, with the ability to work under pressure on multiple concurrent
 projects and deliver quality work to deadlines. Able to analytically solve problems, keep
@@ -7,9 +7,11 @@ with excellent technical and communicative skills, over 5 years of experience in
 front-end web development and who can bring an enthusiastic approach to any working
 environment..
 
-# Experience
+## Experience
 
-#### Senior PHP backend Developer at MindGeek , ``` April 2022 - Current ```
+### Senior PHP backend Developer at MindGeek, 
+####April 2022 - Current
+
 
 - Working within a team remotely and on-site
 - Implementing many aspects in the project backend code and apis
