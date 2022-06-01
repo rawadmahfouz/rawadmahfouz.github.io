@@ -24,7 +24,7 @@ environment..
 - communicating and working closely with QA engineers to ensure good quality.
 - Followed Design Patterns (Repo, Service...) and SOLID principles for OOP.
 
-###### Technologies used:
+##### Technologies used:
 
 - PHP/Symphony and company own developed framework
 - Teams for communication
