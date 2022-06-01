@@ -9,7 +9,7 @@ environment..
 
 ## Experience
 
-### Senior PHP backend Developer at MindGeek , `April 2022 - Current`
+#### Senior PHP backend Developer at MindGeek , `April 2022 - Current`
 
 - Working within a team remotely and on-site
 - Implementing many aspects in the project backend code and apis
