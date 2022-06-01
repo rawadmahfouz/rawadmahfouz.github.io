@@ -9,7 +9,7 @@ environment..
 
 # Experience
 
-## Senior PHP backend Developer at MindGeek , `April 2022 - Current`
+#### Senior PHP backend Developer at MindGeek , ``` April 2022 - Current ```
 
 - Working within a team remotely and on-site
 - Implementing many aspects in the project backend code and apis
@@ -24,7 +24,7 @@ environment..
 - communicating and working closely with QA engineers to ensure good quality.
 - Followed Design Patterns (Repo, Service...) and SOLID principles for OOP.
 
-### Technologies used:
+  **Technologies used:**
 
 - PHP/Symphony and company own developed framework
 - Teams for communication
