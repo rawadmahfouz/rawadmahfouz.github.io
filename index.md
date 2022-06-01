@@ -1,12 +1,39 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/rawadmahfouz/rawadmahfouz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Professionally driven, with the ability to work under pressure on multiple concurrent
+projects and deliver quality work to deadlines. Able to analytically solve problems, keep
+abreast of current best practices and quickly learn new skills. An effective team member
+with excellent technical and communicative skills, over 5 years of experience in backend /
+front-end web development and who can bring an enthusiastic approach to any working
+environment..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### Senior PHP backend Developer at MindGeek , `April 2022 - Current`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Working within a team remotely and on-site
+- Implementing many aspects in the project backend code and apis
+- Provide support and test the product functionalities
+- 3rd party integrations for different product functionalities
+- Working on assigned tasks by team leader under time estimations
+- building fixed tickets branches and deploying to stages using Bamboo
+- Helping other team member updating their branches and merging under one fix version
+- Review & approve developers and colleagues code.
+- Participating in daily Scrum meetings and discussions
+- Using Atlassian Jira as Agile tool and hosted bitbucket as version control system
+- communicating and working closely with QA engineers to ensure good quality.
+- Followed Design Patterns (Repo, Service...) and SOLID principles for OOP.
+
+###### Technologies used:
+
+- PHP/Symphony and company own developed framework
+- Teams for communication
+- MySQL for database
+- Bamboo (CI/CD) & Docker (Containerization)
+- Hosted Bitbucket and Atlassian Jira
+- PHP Storm as Code Editor
+- PSR-12 Code style for PHP
+- Other technologies
 
 ```markdown
 Syntax highlighted code block
